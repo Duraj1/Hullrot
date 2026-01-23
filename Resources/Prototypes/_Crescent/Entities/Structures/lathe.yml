@@ -372,7 +372,6 @@
       - ClothingOuterHardsuitMinutemenEnsign
       - WeaponRifleCMMNimrod
       - WeaponShotgunKammerer
-      - WeaponSubMachineGunWt550
       #MinutemenEnd
       - CreoleTranslator
       - LowImperialTranslator
@@ -576,7 +575,6 @@
       - ClothingEyesThermalVisionGogglesCyberdawn
       - ReinforcementFlatpackSyndicateCyborgMedical
       - ReinforcementFlatpackSyndicateCyborgSaboteur
-      - ReinforcementFlatpackSyndicateCyborgAssault
       - VelatorLPC
       - TaipanLPC
       - WispLPC
@@ -733,6 +731,10 @@
       - WeaponShotgunSHIDoubleBarreled4g
       - WeaponPistolMk58SHI
       - WeaponSubMachineGunMP49
+<<<<<<< HEAD
+=======
+      - WeaponSubMachineGunWt550Hullrot
+>>>>>>> refs/remotes/origin/gliess-update
       - WeaponRifleM90GrenadeLauncher
       - WeaponShotgunSpas
       - WeaponRifleBarghest
