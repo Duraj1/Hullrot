@@ -42,7 +42,7 @@ public sealed class HadalCorrosionSystem : EntitySystem
             if (!TryComp<CorrosionResistanceComponent>(ent, out var resistance))
                 resistance = new CorrosionResistanceComponent { ResistanceMultiplier = 1f };
 
-            var corrosionAmount = resistance.ResistanceMultiplier * 0.0005f + hadalCorrosion.CorrosionLevel;
+            var corrosionAmount = resistance.ResistanceMultiplier * 0.0002f + hadalCorrosion.CorrosionLevel;
             if (!inHadal)
                 corrosionAmount = corrosionAmount * -5;
 
