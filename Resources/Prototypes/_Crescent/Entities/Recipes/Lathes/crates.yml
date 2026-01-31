@@ -36,7 +36,7 @@
   result: TradeGoodWine
   completetime: 2
   materials:
-    Biomass: 1500
+    Biomass: 75
     Glass: 2500
 
 - type: latheRecipe
@@ -89,7 +89,7 @@
   result: TradeGoodAlcohol
   completetime: 2
   materials:
-    Biomass: 1500
+    Biomass: 75
     Glass: 2500
 
 - type: latheRecipe
@@ -154,7 +154,7 @@
   result: TradeGoodUnionVodka
   completetime: 2
   materials:
-    Biomass: 1500
+    Biomass: 75
     Glass: 2500
 
 - type: latheRecipe
