@@ -77,7 +77,7 @@
     - Fruit # DeltaV - Allow anyone to eat it, hopefully
 
 - type: entity
-  name: Soy Scop bar
+  name: soy scop bar
   parent: FoodPSBBase
   id: FoodPSBBarSoy
   description: A densely packed, nutrient rich sustenance bar. This one is mixed-herb flavoured. Feminizing! (warning, not a suitable replacement for HRT)
@@ -90,7 +90,7 @@
   - type: Item
 
 - type: entity
-  name: Neapolitan Scop Bar
+  name: neapolitan scop bar
   parent: FoodPSBBase
   id: FoodPSBBarNeapolitan
   description: A densely packed, nutrient rich sustenance bar. This one is neapolitan flavoured- strawberry, vanilla, and chocolate.
@@ -105,7 +105,7 @@
   - type: Item
 
 - type: entity
-  name: Brownie Sustenance Bar
+  name: brownie scop bar
   parent: FoodPSBBase
   id: FoodPSBBarBrownie
   description: A densely packed, nutrient rich sustenance bar. This one is brownie flavored.
@@ -118,7 +118,7 @@
   - type: Item
 
 - type: entity
-  name: Cheese Sustenance Bar
+  name: cheese scop Bar
   parent: FoodPSBBase
   id: FoodPSBBarCheese
   description: A densely packed, nutrient rich sustenance bar. This one is three-cheese flavoured- parmesan, mozzarella, and cheddar.
@@ -131,7 +131,7 @@
   - type: Item
 
 - type: entity
-  name: Meat Sustenance Bar
+  name: meat scop bar
   parent: FoodPSBBase
   id: FoodPSBBarMeat
   description: A densely packed, nutrient rich sustenance bar. This one is meat and pepper flavored.
@@ -145,7 +145,7 @@
   - type: Item
 
 - type: entity
-  name: Vegetable Sustenance Bar
+  name: vegetable scop bar
   parent: FoodPSBBase
   id: FoodPSBBarVegetable
   description: A densely packed, nutrient rich sustenance bar. This one is vegetable flavoured- lettuce, carrots and potato.
@@ -160,7 +160,7 @@
   - type: Item
 
 - type: entity
-  name: Mint Sustenance Bar
+  name: mint scop bar
   parent: FoodPSBBase
   id: FoodPSBBarMint
   description: A densely packed, nutrient rich sustenance bar. This one is mint choc chip flavoured- peppermint, dark chocolate, and potato chips.
@@ -175,7 +175,7 @@
   - type: Item
 
 - type: entity
-  name: Banana Sustenance Bar
+  name: banana scop bar
   parent: FoodPSBBase
   id: FoodPSBBarBanana
   description: A densely packed, nutrient rich sustenance bar. This one is banana milkshake flavoured- banana and milk.
@@ -189,7 +189,7 @@
   - type: Item
 
 - type: entity
-  name: Wonka Sustenance Bar
+  name: wonka scop bar
   parent: FoodPSBBase
   id: FoodPSBBarWonka
   description: A densely packed, nutrient rich sustenance bar. This one is split into three flavours, making up a typical meal- tomato soup, roast pumpkin, and blueberry pie.
