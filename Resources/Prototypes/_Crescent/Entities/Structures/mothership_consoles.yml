@@ -1,4 +1,3 @@
-
 - type: entity
   id: NCWLMothershipComputer
   parent: BaseMothershipComputer
@@ -8,9 +7,6 @@
     shuttles:
     - Vanguard
     - Lodka
-    - Ivarod
-    - Stern
-    - Gargut
     - Hind
     - Vasinya
     - Psoglav
@@ -23,6 +19,8 @@
   - type: ShipyardListing
     shuttles:
     - HornetDrone
+    - Rapier
+    - Nova
 
 - type: entity
   id: DSMLightCarrierComputer
@@ -61,8 +59,7 @@
     - Covetor
     - Gnosis
     - Praxis
-    - Laelaps
-    #- Dragoon
+    - Praetorian
 
 - type: entity
   id: NemesisMothershipComputer
